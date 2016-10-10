@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="ExampleWorkflow.Tests.StartsWithTests.StringFoundCaseInsensitive" /><Add Test="ExampleWorkflow.Tests.StartsWithTests.StringNotFound" /><Add Test="ExampleWorkflow.Tests.StartsWithTests.StringNotFoundCaseSensitive" /></Playlist>
